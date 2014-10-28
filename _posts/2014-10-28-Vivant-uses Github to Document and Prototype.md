@@ -8,7 +8,9 @@ title: Vivant uses Github to Document and Prototype
 
 <p class="meta">
 
-In our first class activity, the class was seperated into 3 teams and given markers, tape, scissors, papers and pad
+<bold>What is Github?<bold> An open source codes? databases storage? revision management database? Yes to all. Check out the full definition here https://github.com/about
+
+<bold>Why Github? Well other than it being assigned as a class project, it industry norms.
 
 ![]({{ site.url }}/blog-template/images/IMG_4904.JPG)
 ![]({{ site.url }}/blog-template/images/IMG_4906.JPG)
