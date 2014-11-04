@@ -8,13 +8,14 @@ title: Vivant uses Github to Document and Prototype
 
 <p class="meta">
 
-<bold>What is Github?<bold> An open source codes? databases storage? revision management database? Yes to all. Check out the full definition here https://github.com/about
+Vivant joins Github as part of a class project! 
+ 
+Vivant uses Github to Document and Prototype
 
-<bold>Why Github? Well other than it being assigned as a class project, it industry norms.
+What is Github? An open source codes? Databases storage? Revision management database? Yes to all. Check out the full definition here https://github.com/about
 
-![]({{ site.url }}/blog-template/images/IMG_4904.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4906.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4913.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4914.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4916.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4920.JPG)
+Why Github? Well other than it being assigned as a class project, it is the design industry norms.
+
+Join me for the next 5 weeks as we explore Visualization and Prototyping. I will explore Visualization of Prototyping with art and technology in mind. My goal is to create some very cool that I can use or further develop.  
+
+
