@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ideas
+title: Brainstorming Ideas for Final Project
 ---
 
 {{ page.title }}
@@ -30,10 +30,8 @@ Idea 3 – Designer Application that projects and holograms art into space in yo
 Cool Websites that I came across while researching
 
 <a href="http://streetartview.com/">http://streetartview.com</a>
-
-http://www.vuchnich.com/
-
-http://localprojects.net/project/gallery-one/#2
+<a href="http://www.vuchnich.com/">http://www.vuchnich.com/</a>
+<a href="http://localprojects.net/project/gallery-one/#2/">http://localprojects.net/project/gallery-one/#2/</a>
 
 
 
