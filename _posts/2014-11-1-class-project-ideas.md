@@ -13,7 +13,7 @@ Brainstorming Ideas for Final Project
 My idea is to create a user friendly tool that will allow by customers to better interact with the art at Vivant. My hopes are that the tool and or product would be educational and interactive tool or products that can help the gallery generate revenue.
 
 Idea 1 – Prototype a gallery space model for upcoming exhibit. 
-          •	Who is the Audience: Curators 
+          •	Who is the Audience: Curators <br />
           •	What is made out from: wood, plastic, and other materials
           •	How is used: assist with visualizing space
 
