@@ -16,6 +16,6 @@ What is Github? An open source codes? Databases storage? Revision management dat
 
 Why Github? Well other than it being assigned as a class project, it is the design industry norms.
 
-Join me for the next 5 weeks as we explore Visualization and Prototyping. I will explore Visualization of Prototyping with art and technology in mind. My goal is to create some very cool that I can use or further develop.  
+Join me for the next 5 weeks as we explore Visualization and Prototyping. I will explore Visualization of Prototyping with art and technology in mind. My goal is to create something very cool and innovative that I can use or further develop for my business.  
 
 
