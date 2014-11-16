@@ -10,17 +10,17 @@ title: Brainstorming Ideas for Final Project
 
 My idea is to create a user friendly tool that will allow by customers to better interact with the art at Vivant. My hopes are that the tool and or product would be educational and interactive tool or products that can help the gallery generate revenue.
 
-Idea 1 – Prototype a gallery space model for upcoming exhibit. 
+Idea 1 – Prototype a gallery space model for upcoming exhibit. <br />
           •	Who is the Audience: Curators <br />
           •	What is made out from: wood, plastic, and other materials<br />
           •	How is used: assist with visualizing space<br />
 
-Idea 2 – Map art from various countries on a map creating a data visual story.
+Idea 2 – Map art from various countries on a map creating a data visual story.<br />
           •	Who is the audience: art enthusiast, art educators<br />
           •	Phone or tablet app utilizing art images and maps<br />
           •	Programs populates art onto page in a slideshow when a country is selected
 
-Idea 3 – Designer Application that projects and holograms art into space in your home or office.
+Idea 3 – Designer Application that projects and holograms art into space in your home or office.<br />
           •	Who is the audience: recent movers, interior designers<br />
           •	Phone or tablet app utilizing <br />
           •	Art and furniture is projected into your home and onto your walls
