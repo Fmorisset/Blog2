@@ -73,5 +73,6 @@ Not Completed…..
 •	Photo gallery<br />
 
 
-![]({{ site.url }}/Blog2/images/Perplexed.JPG)
+![]({{ site.url }}/Blog2/images/IMG Perplexed.JPG)
+
 
