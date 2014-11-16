@@ -13,7 +13,7 @@ Objective
 2.	Define 5w’s 
 3.	Visualizing the 3 ways (HOW) that it could actually work
 
-<b>Working Titles </b>
+<b>Working Titles </b><br />
   •	Mapping Art Across the World
   •	The World Map of Art
   •	Art, Technology, and Mapping
