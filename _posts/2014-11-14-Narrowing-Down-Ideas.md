@@ -7,12 +7,13 @@ title: Narrowing Down My Idea to ONE
 ================
 
 <p class="meta">
+Objective
 
 1.	Title the project
 2.	Define 5w’s 
 3.	Visualizing the 3 ways (HOW) that it could actually work
 
-Working Titles
+<b>Working Titles <b/>
   •	Mapping Art Across the World
   •	The World Map of Art
   •	Art, Technology, and Mapping
