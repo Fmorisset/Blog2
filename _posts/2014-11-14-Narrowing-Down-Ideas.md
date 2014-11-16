@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mapping Activity
+title: Narrowing Down My Idea to ONE
 ---
 
 {{ page.title }}
