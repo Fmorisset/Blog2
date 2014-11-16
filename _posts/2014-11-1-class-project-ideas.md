@@ -15,17 +15,17 @@ My idea is to create a user friendly tool that will allow by customers to better
           •	What is made out from: wood, plastic, and other materials<br />
           •	How is used: assist with visualizing space<br />
 
-Idea 2 – Map art from various countries on a map creating a data visual story.<br />
+<strong>Idea 2 – Map art from various countries on a map creating a data visual story.</strong><br />
           •	Who is the audience: art enthusiast, art educators<br />
           •	Phone or tablet app utilizing art images and maps<br />
           •	Programs populates art onto page in a slideshow when a country is selected
 
-Idea 3 – Designer Application that projects and holograms art into space in your home or office.<br />
+<strong>Idea 3 – Designer Application that projects and holograms art into space in your home or office.</strong><br />
           •	Who is the audience: recent movers, interior designers<br />
           •	Phone or tablet app utilizing <br />
           •	Art and furniture is projected into your home and onto your walls
 
-Cool Websites that I came across while researching
+<strong>Cool Websites that I came across while researching</stong>
 
 <a href="http://streetartview.com/">http://streetartview.com</a><br />
 <a href="http://www.vuchnich.com/">http://www.vuchnich.com/</a><br />
