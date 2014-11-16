@@ -8,31 +8,30 @@ title: Ideas
 
 <p class="meta">
 
-Blog Entry 2
-Idea 1 – Prototype a gallery space as blueprint for upcoming exhibit
-·         Who is the Audience: Curators
+Brainstorming Ideas for Final Project
 
-·         What is made out from: wood, plastic, and other materials
+My idea is to create a user friendly tool that will allow by customers to better interact with the art at Vivant. My hopes are that the tool and or product would be educational and interactive tool or products that can help the gallery generate revenue.
 
-·         How is used: assist with visualizing space
+Idea 1 – Prototype a gallery space model for upcoming exhibit. 
+          •	Who is the Audience: Curators 
+          •	What is made out from: wood, plastic, and other materials
+          •	How is used: assist with visualizing space
 
-Idea 2 – Map art from various countries creating a data visual story.
-·         Who is the audience: art enthusiast, art educators
+Idea 2 – Map art from various countries on a map creating a data visual story.
+          •	Who is the audience: art enthusiast, art educators
+          •	Phone or tablet app utilizing art images and maps
+          •	Programs populates art onto page in a slideshow when a country is selected
 
-·         Phone or tablet app utilizing art images and maps
+Idea 3 – Designer Application that projects and holograms art into space in your home or office.
+          •	Who is the audience: recent movers, interior designers
+          •	Phone or tablet app utilizing 
+          •	Art and furniture is projected into your home and onto your walls
 
-·         Programs populates art onto page in a slideshow when a country is selected
+Cool Websites that I came across while researching
 
-Idea 3 – Designer Application
-·         Who is the audience: recent movers, interior designers
-
-·         Phone or tablet app utilizing
-
-·         Art and furniture is projected into your home and onto your walls
-
-Cool Websites
 http://streetartview.com/
 http://www.vuchnich.com/
 http://localprojects.net/project/gallery-one/#2
+
 
 
