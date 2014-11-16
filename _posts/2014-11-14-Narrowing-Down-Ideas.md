@@ -9,9 +9,9 @@ title: Narrowing Down My Idea to ONE
 <p class="meta">
 
 <b>Objective</b><br />
-1.	Title the project
-2.	Define 5w’s 
-3.	Visualizing the 3 ways (HOW) that it could actually work
+1.	Title the project<br />
+2.	Define 5w’s <br />
+3.	Visualizing the 3 ways (HOW) that it could actually work<br />
 
 <b>Working Titles </b><br />
   •	Mapping Art Across the World<br />
@@ -37,10 +37,10 @@ title: Narrowing Down My Idea to ONE
 <b>•	Timeline of creating product?</b><br />
     o	Brainstorm Idea – 1  Week 10/28 Complete<br />
     o	Document and Pitch Idea – 1 Week 11/4 Complete<br />
-    o	Refine Idea and SQVID (Explorations) – 1 week 11/11
-    o	Start gathering data, sketching and physically researching outputs - 2 Weeks 11/18
-    o	Complete draft of Prototype – 1 Week  12/2
-    o	Finalize Prototype - 1 Week 12/16
+    o	Refine Idea and SQVID (Explorations) – 1 week 11/11<br />
+    o	Start gathering data, sketching and physically researching outputs - 2 Weeks 11/18<br />
+    o	Complete draft of Prototype – 1 Week  12/2<br />
+    o	Finalize Prototype - 1 Week 12/16<br />
 
 <b>Where is used/located?</b><br />
     •	On the website<br />
@@ -52,7 +52,7 @@ title: Narrowing Down My Idea to ONE
 <b>Why are we creating this product?</b><br />
     •	Make it an easier entry for art lovers to engage and learn about art by creating a pathway for the art to be more accessible from a world-view perspective<br />
     •	Creating cool and innovative way to show cultural and historical art, which can be deemed boring.<br />
-        o	Goals<br />
+        <u>o	Goals</u><br />
           	 Assessing younger audience to historical art<br />
           	Create marketing buzz with new tool and product<br />
           	Create educational tool<br />
@@ -63,8 +63,8 @@ title: Narrowing Down My Idea to ONE
       •	View the continents with textile markers <br />
       •	Second view can be countries with the flags	<br />
 
-    Step2:  Click on either the continent or country (textile markers or flags)
-        Not Completed…..
+Step2:  Click on either the continent or country (textile markers or flags)
+Not Completed…..
 
 <b>Additions</b><br />
 •	Add music<br />
