@@ -8,7 +8,6 @@ title: The Overall Creative Process
 
 <p class="meta">
 
-<b>The Overall Creative Process</b><br />
 
 The Overall Creative Process happened is several steps of re-iteration and design thinking.< b/>
 
@@ -39,7 +38,8 @@ I used wiki-pedia and google to find all my data and images. I finalized the pro
 <b>7. Refined and perfected the project.</b><br />
         This will be a continuous process as I come up with ideas to make the project interactive. <br />
         
-       <b> LINK TO FINAL PROJECT: </b><br />
+        
+        <b> LINK TO FINAL PROJECT: </b><br />
 
 
 
