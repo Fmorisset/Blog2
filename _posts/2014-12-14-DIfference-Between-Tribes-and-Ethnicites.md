@@ -18,7 +18,20 @@ Ethnic groups in Africa number in the thousands, each generally having its own l
 
 The largest ethnic groups mostly originate from major historic political kingdoms, such as in West Africa with the Sahelian kingdoms of the medieval period, like that of the Akan, deriving from Bonoman (11th century) then the Kingdom of Ashanti (17th century) and in Central Africa with the Kanuri of the Kanem and Bornu Empires.
 
+Enjoy interest pictures from various tribes and ethnicites in Africa.
 
+![]({{ site.url }}/Blog2/images/toubou chad.JPG)
+![]({{ site.url }}/Blog2/images/Sunda People.JPG)
+![]({{ site.url }}/Blog2/images/People of Malawi.JPG)
+![]({{ site.url }}/Blog2/images/Turkana-kenya-people.JPG)
+![]({{ site.url }}/Blog2/images/Ivory Coast people.JPG)
+![]({{ site.url }}/Blog2/images/bamileke cameroon.JPG)
+![]({{ site.url }}/Blog2/images/bamileke tribe cameroon.JPG)
+![]({{ site.url }}/Blog2/images/Benin People.JPG)
+![]({{ site.url }}/Blog2/images/Ethiopian Murzi)
+![]({{ site.url }}/Blog2/images/Berber People.JPG)
+![]({{ site.url }}/Blog2/images/HImba People.JPG)
+![]({{ site.url }}/Blog2/images/Bantu Kikuyu Kenya.JPG)
 
 <b>Source: </b><br />
 http://en.wikipedia.org/wiki/Ethnic_groups_in_Africa
