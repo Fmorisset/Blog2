@@ -49,6 +49,12 @@ This tribe is also referred to as the Watutsi or Watutsi. In Rwanda and Burundi 
 <b>Zulu</b>
 They are the largest ethnic group in South Africa, numbering about 10 million. Most of the Zulu live in the province of KwaZulu-Natal.
 
+![]({{ site.url }}/Fmorisset/Blog2/images/Shweshwe.JPG)
+![]({{ site.url }}/Fmorisset/Blog2/images/Kitenge.JPG)
+![]({{ site.url }}/Fmorisset/Blog2/images/Mudcloth.JPG)
+![]({{ site.url }}/Fmorisset/Blog2/images/Akwete.JPG)
+![]({{ site.url }}/Fmorisset/Blog2/images/Barkcloth.JPG)
+![]({{ site.url }}/Fmorisset/Blog2/images/Kente.JPG)
 
 
 Sources
