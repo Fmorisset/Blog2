@@ -9,6 +9,7 @@ title: Most Popular African Tribes and Samples
 <p class="meta">
 
 <b>Different Tribes</b><br />
+During my data research, I found that there were thousands of African tribes. Below are some of the more popular tribes. Enjoy the images of the various African tribal textiles.
 
 <b>Afar</b>
 This tribe can be found on the horn of Africa in Ethiopia, Djibouti, Eritrea, and Somalia. They traditionally have been organized into separate kingdoms, each ruled by its own Sultan. They are pastoralists.
@@ -54,10 +55,9 @@ They are the largest ethnic group in South Africa, numbering about 10 million. M
 ![]({{ site.url }}/Blog2/images/Mudcloth.jpg)
 ![]({{ site.url }}/Blog2/images/Akwete.jpg)
 ![]({{ site.url }}/Blog2/images/Barkcloth.jpg)
-![]({{ site.url }}/Blog2/images/Kente.ipg)
+![]({{ site.url }}/Blog2/images/Kente.jpg)
 
-![]({{ site.url }}/Blog2/images/Perplexed.jpg)
-Sources
+<b>Sources</b>
 <b>African Facts:</b> http://interesting-africa-facts.com/Africa-People/African-Tribe-List.html
 <b>Wikipedia:</b> http://en.wikipedia.org/wiki/African_textiles
 
