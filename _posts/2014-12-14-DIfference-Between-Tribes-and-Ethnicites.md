@@ -34,5 +34,5 @@ Enjoy interesting pictures from various tribes and ethnicites in Africa.
 ![]({{ site.url }}/Blog2/images/Bantu Kikuyu Kenya.JPG)
 
 <b>Source: </b><br />
-http://en.wikipedia.org/wiki/Ethnic_groups_in_Africa
+http://en.wikipedia.org/wiki/Ethnic_groups_in_Africa<br />
 http://ldesp.wordpress.com/ask-an-expert/difference-between-ethnic-group-and-tribe/
