@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the Difference between Tribes and Ethnicites
+title: Difference between Tribes & Ethnicites
 ---
 
 {{ page.title }}
