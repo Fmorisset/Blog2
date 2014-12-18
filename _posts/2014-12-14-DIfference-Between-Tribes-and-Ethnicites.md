@@ -32,6 +32,7 @@ Enjoy interesting pictures from various tribes and ethnicites in Africa.
 ![]({{ site.url }}/Blog2/images/Berber People.JPG)
 ![]({{ site.url }}/Blog2/images/HImba People.JPG)
 ![]({{ site.url }}/Blog2/images/Bantu Kikuyu Kenya.JPG)
+ ![]({{ site.url }}/Blog2/images/Mudcloth.jpg)
 
 <b>Source: </b><br />
 http://en.wikipedia.org/wiki/Ethnic_groups_in_Africa<br />
