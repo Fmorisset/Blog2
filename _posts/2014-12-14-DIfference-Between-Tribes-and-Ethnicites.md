@@ -20,19 +20,19 @@ Ethnic groups in Africa number in the thousands, each generally having its own l
 
 Enjoy interesting pictures from various tribes and ethnicites in Africa.
 
-![]({{ site.url }}/Blog2/images/toubou chad.JPG)
-![]({{ site.url }}/Blog2/images/Sunda People.JPG)
-![]({{ site.url }}/Blog2/images/People of Malawi.JPG)
-![]({{ site.url }}/Blog2/images/Turkana-kenya-people.JPG)
-![]({{ site.url }}/Blog2/images/Ivory Coast people.JPG)
-![]({{ site.url }}/Blog2/images/bamileke cameroon.JPG)
-![]({{ site.url }}/Blog2/images/bamileke tribe cameroon.JPG)
-![]({{ site.url }}/Blog2/images/Benin People.JPG)
-![]({{ site.url }}/Blog2/images/Ethiopian Murzi)
-![]({{ site.url }}/Blog2/images/Berber People.JPG)
-![]({{ site.url }}/Blog2/images/HImba People.JPG)
-![]({{ site.url }}/Blog2/images/Bantu Kikuyu Kenya.JPG)
- ![]({{ site.url }}/Blog2/images/Mudcloth.jpg)
+ ![]({{ site.url }}/Blog2/images/toubou chad.JPG)
+ ![]({{ site.url }}/Blog2/images/Sunda People.JPG)
+ ![]({{ site.url }}/Blog2/images/People of Malawi.JPG)
+ ![]({{ site.url }}/Blog2/images/Turkana-kenya-people.JPG)
+ ![]({{ site.url }}/Blog2/images/Ivory Coast people.JPG)
+ ![]({{ site.url }}/Blog2/images/bamileke cameroon.JPG)
+ ![]({{ site.url }}/Blog2/images/bamileke tribe cameroon.JPG)
+ ![]({{ site.url }}/Blog2/images/Benin People.JPG)
+ ![]({{ site.url }}/Blog2/images/Ethiopian Murzi)
+ ![]({{ site.url }}/Blog2/images/Berber People.JPG)
+ ![]({{ site.url }}/Blog2/images/HImba People.JPG)
+ ![]({{ site.url }}/Blog2/images/Bantu Kikuyu Kenya.JPG)
+
 
 <b>Source: </b><br />
 http://en.wikipedia.org/wiki/Ethnic_groups_in_Africa<br />
