@@ -25,11 +25,11 @@ My idea is to create a user friendly tool that will allow by customers to better
           •	Phone or tablet app utilizing <br />
           •	Art and furniture is projected into your home and onto your walls
 
-<strong>Cool Websites that I came across while researching</stong>
+<strong>Insipriration: Cool Websites that I came across while researching</stong>
 
 <a href="http://streetartview.com/"> Redbull Street Art View</a><br />
 <a href="http://www.vuchnich.com/"> Robin Vuchnich - Designer</a><br />
-<a href="http://localprojects.net/project/gallery-one/#2/"> Local Projects Intractive Museum Display</a>
+<a href="http://localprojects.net/project/gallery-one/#2/"> Local Projects Intractive Museum Display</a><br />
 <a href=http://www.fastcodesign.com/3039370/the-5-coolest-things-about-the-revamped-smithsonian-design-museum?utm_source=mailchimp&utm_medium=email&utm_campaign=codesign-daily&position=2&partner=newsletter&campaign_date=12102014><b> The 5 Coolest Things About The Revamped Smithsonian Design Museum </b> </a>
 
 
