@@ -20,20 +20,17 @@ Ethnic groups in Africa number in the thousands, each generally having its own l
 
 Enjoy interesting pictures from various tribes and ethnicites in Africa.
 
- ![]({{ site.url }}/Blog2/images/toubou chad.jpg)
- ![]({{ site.url }}/Blog2/images/Sudan People.jpg)
- ![]({{ site.url }}/Blog2/images/People of Malawi.jpg)
- ![]({{ site.url }}/Blog2/images/bamileke cameroon.jpg)
- ![]({{ site.url }}/Blog2/images/Ethiopian Murzi Art.jpg)
- ![]({{ site.url }}/Blog2/images/turkana-kenya-people.jpg)
- ![]({{ site.url }}/Blog2/images/Himba People.jpg)
- ![]({{ site.url }}/Blog2/images/Ivory Coast people.jpg)
- ![]({{ site.url }}/Blog2/images/bamileke tribe cameroon.jpg)
- ![]({{ site.url }}/Blog2/images/Berber People.jpg)
- ![]({{ site.url }}/Blog2/images/Benin People.jpg)
-
- 
- 
+ ![]({{ site.url }}/Blog2/images/toubou chad.jpg)Toubou Tribe in Chad
+ ![]({{ site.url }}/Blog2/images/Sudan People.jpg) Sudanese
+ ![]({{ site.url }}/Blog2/images/People of Malawi.jpg) People of Malawi
+ ![]({{ site.url }}/Blog2/images/bamileke cameroon.jpg) Bamileke People of Cameroon
+ ![]({{ site.url }}/Blog2/images/Ethiopian Murzi Art.jpg) Murzi Art of Ethiopian
+ ![]({{ site.url }}/Blog2/images/turkana-kenya-people.jpg) Turkana People of Kenya
+ ![]({{ site.url }}/Blog2/images/Himba People.jpg) Himba People of Naimbia
+ ![]({{ site.url }}/Blog2/images/Ivory Coast people.jpg) People of Ivory Coast
+ ![]({{ site.url }}/Blog2/images/bamileke tribe cameroon.jpg) Bamileke Tribe in Cameroon
+ ![]({{ site.url }}/Blog2/images/Berber People.jpg) Berber Tribe
+ ![]({{ site.url }}/Blog2/images/Benin People.jpg) Benin Tribe
 
 
 <b>Source: </b><br />
