@@ -63,9 +63,10 @@ They are the largest ethnic group in South Africa, numbering about 10 million. M
 
 
 
-<b>Sources</b>
-<b>African Facts:</b> http://interesting-africa-facts.com/Africa-People/African-Tribe-List.html
-<b>Wikipedia:</b> http://en.wikipedia.org/wiki/African_textiles
+<b>Sources</b><br />
+ <a href=http://interesting-africa-facts.com/Africa-People/African-Tribe-List.html><b> African Tribe List </b> </a><br />
+ <a href=http://en.wikipedia.org/wiki/African_textiles><b> African Textiles </b> </a>
+ 
 
 
 
