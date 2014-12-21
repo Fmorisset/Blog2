@@ -20,18 +20,17 @@ Ethnic groups in Africa number in the thousands, each generally having its own l
 
 Enjoy interesting pictures from various tribes and ethnicites in Africa.
 
- <img src="C:\Users\Owner\Documents\MAMBA\Visulization & Prototype\GitHub\Blog2\images\toubou chad.jpg" title="Toubou Tribe in Chad"></a>
-<img src="http://www.computerhope.com/chguy.gif" alt="Computer Hope guy holding CH logo" title="Visit Computer Hope">
- ![]({{ site.url }}/Blog2/images/Sudan People.jpg)<br /> Sudanese
- ![]({{ site.url }}/Blog2/images/People of Malawi.jpg)<br /> People of Malawi<br />
- ![]({{ site.url }}/Blog2/images/bamileke cameroon.jpg)<br /> Bamileke People of Cameroon<br />
- ![]({{ site.url }}/Blog2/images/Ethiopian Murzi Art.jpg)<br /> Murzi Art of Ethiopian<br />
- ![]({{ site.url }}/Blog2/images/turkana-kenya-people.jpg)<br /> Turkana People of Kenya<br />
- ![]({{ site.url }}/Blog2/images/Himba People.jpg)<br /> Himba People of Naimbia<br />
- ![]({{ site.url }}/Blog2/images/Ivory Coast people.jpg)<br /> People of Ivory Coast<br />
- ![]({{ site.url }}/Blog2/images/bamileke tribe cameroon.jpg)<br /> Bamileke Tribe in Cameroon<br />
- ![]({{ site.url }}/Blog2/images/Berber People.jpg)<br /> Berber Tribe<br />
- ![]({{ site.url }}/Blog2/images/Benin People.jpg)<br /> Benin Tribe<br />
+ <img src="C:/Users/Owner/Documents/MAMBA/Visulization & Prototype/GitHub/Blog2/images/toubou chad.jpg" title="Toubou Tribe in Chad"></a>
+ ![]({{ site.url }}/Blog2/images/Sudan People.jpg)
+ ![]({{ site.url }}/Blog2/images/People of Malawi.jpg)
+ ![]({{ site.url }}/Blog2/images/bamileke cameroon.jpg)
+ ![]({{ site.url }}/Blog2/images/Ethiopian Murzi Art.jpg)
+ ![]({{ site.url }}/Blog2/images/turkana-kenya-people.jpg)
+ ![]({{ site.url }}/Blog2/images/Himba People.jpg)
+ ![]({{ site.url }}/Blog2/images/Ivory Coast people.jpg)
+ ![]({{ site.url }}/Blog2/images/bamileke tribe cameroon.jpg)
+ ![]({{ site.url }}/Blog2/images/Berber People.jpg)
+ ![]({{ site.url }}/Blog2/images/Benin People.jpg)
 
 
 <b>Source: </b><br />
