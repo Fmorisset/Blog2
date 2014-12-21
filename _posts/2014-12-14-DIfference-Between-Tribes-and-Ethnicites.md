@@ -20,8 +20,8 @@ Ethnic groups in Africa number in the thousands, each generally having its own l
 
 Enjoy interesting pictures from various tribes and ethnicites in Africa.
 
- ![]({{ site.url }}/Blog2/images/toubou chad.jpg)<br />Toubou Tribe in Chad<br />
- ![]({{ site.url }}/Blog2/images/Sudan People.jpg)<br /> Sudanese<br />
+ ![]({{ site.url }}/Blog2/images/toubou chad.jpg)<br />Toubou Tribe in Chad
+ ![]({{ site.url }}/Blog2/images/Sudan People.jpg)<br /> Sudanese
  ![]({{ site.url }}/Blog2/images/People of Malawi.jpg)<br /> People of Malawi<br />
  ![]({{ site.url }}/Blog2/images/bamileke cameroon.jpg)<br /> Bamileke People of Cameroon<br />
  ![]({{ site.url }}/Blog2/images/Ethiopian Murzi Art.jpg)<br /> Murzi Art of Ethiopian<br />
