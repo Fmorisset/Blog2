@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Most Popular African Tribes and Samples
+title: Major African Tribes and Textile Samples
 ---
 
 {{ page.title }}
@@ -49,6 +49,8 @@ This tribe is also referred to as the Watutsi or Watutsi. In Rwanda and Burundi 
 
 <b>Zulu</b>
 They are the largest ethnic group in South Africa, numbering about 10 million. Most of the Zulu live in the province of KwaZulu-Natal.
+
+<b>Textile Samples</b>
 
 ![]({{ site.url }}/Blog2/images/Aso_oke.jpg)
 ![]({{ site.url }}/Blog2/images/Zulu eclectic-fabric.jpg)
