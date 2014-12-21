@@ -37,5 +37,5 @@ Enjoy interesting pictures from various tribes and ethnicites in Africa.
 
 
 <b>Source: </b><br />
- <a href=http://en.wikipedia.org/wiki/Ethnic_groups_in_Africa><b> Ethnic Groups in Africa </b> </a>< /br>
+ <a href=http://en.wikipedia.org/wiki/Ethnic_groups_in_Africa><b> Ethnic Groups in Africa </b>< /br> </a>
  <a href=http://ldesp.wordpress.com/ask-an-expert/difference-between-ethnic-group-and-tribe/><b> Difference between “Ethnic Group” and “Tribe” </b> </a>
