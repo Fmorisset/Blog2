@@ -57,7 +57,7 @@ They are the largest ethnic group in South Africa, numbering about 10 million. M
 ![]({{ site.url }}/Blog2/images/Mudcloth.jpg)
 ![]({{ site.url }}/Blog2/images/Akwete.jpg)
 ![]({{ site.url }}/Blog2/images/Barkcloth.jpg)
-![]({{ site.url }}/Blog2/images/Kente.jpg)
+  ![]({{ site.url }}/Blog2/images/Kente.jpg)
 
 
 
