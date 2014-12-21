@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brainstorming Ideas for Final Project
+title: Inspiration for Final Project
 ---
 
 {{ page.title }}
