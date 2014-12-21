@@ -27,9 +27,10 @@ My idea is to create a user friendly tool that will allow by customers to better
 
 <strong>Cool Websites that I came across while researching</stong>
 
-<a href="http://streetartview.com/">http://streetartview.com</a><br />
-<a href="http://www.vuchnich.com/">http://www.vuchnich.com/</a><br />
-<a href="http://localprojects.net/project/gallery-one/#2/">http://localprojects.net/project/gallery-one/#2/</a>
+<a href="http://streetartview.com/"> Redbull Street Art View</a><br />
+<a href="http://www.vuchnich.com/"> Robin Vuchnich - Designer</a><br />
+<a href="http://localprojects.net/project/gallery-one/#2/"> Local Projects Intractive Museum Display</a>
+<a href=http://www.fastcodesign.com/3039370/the-5-coolest-things-about-the-revamped-smithsonian-design-museum?utm_source=mailchimp&utm_medium=email&utm_campaign=codesign-daily&position=2&partner=newsletter&campaign_date=12102014><b> The 5 Coolest Things About The Revamped Smithsonian Design Museum </b> </a>
 
 
 
