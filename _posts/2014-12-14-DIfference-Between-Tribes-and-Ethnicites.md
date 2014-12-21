@@ -20,17 +20,17 @@ Ethnic groups in Africa number in the thousands, each generally having its own l
 
 Enjoy interesting pictures from various tribes and ethnicites in Africa.
 
- ![]({{ site.url }}/Blog2/images/toubou chad.jpg)Toubou Tribe in Chad
- ![]({{ site.url }}/Blog2/images/Sudan People.jpg) Sudanese
- ![]({{ site.url }}/Blog2/images/People of Malawi.jpg) People of Malawi
- ![]({{ site.url }}/Blog2/images/bamileke cameroon.jpg) Bamileke People of Cameroon
- ![]({{ site.url }}/Blog2/images/Ethiopian Murzi Art.jpg) Murzi Art of Ethiopian
- ![]({{ site.url }}/Blog2/images/turkana-kenya-people.jpg) Turkana People of Kenya
- ![]({{ site.url }}/Blog2/images/Himba People.jpg) Himba People of Naimbia
- ![]({{ site.url }}/Blog2/images/Ivory Coast people.jpg) People of Ivory Coast
- ![]({{ site.url }}/Blog2/images/bamileke tribe cameroon.jpg) Bamileke Tribe in Cameroon
- ![]({{ site.url }}/Blog2/images/Berber People.jpg) Berber Tribe
- ![]({{ site.url }}/Blog2/images/Benin People.jpg) Benin Tribe
+ ![]({{ site.url }}/Blog2/images/toubou chad.jpg)<br />Toubou Tribe in Chad<br />
+ ![]({{ site.url }}/Blog2/images/Sudan People.jpg)<br /> Sudanese<br />
+ ![]({{ site.url }}/Blog2/images/People of Malawi.jpg)<br /> People of Malawi<br />
+ ![]({{ site.url }}/Blog2/images/bamileke cameroon.jpg)<br /> Bamileke People of Cameroon<br />
+ ![]({{ site.url }}/Blog2/images/Ethiopian Murzi Art.jpg)<br /> Murzi Art of Ethiopian<br />
+ ![]({{ site.url }}/Blog2/images/turkana-kenya-people.jpg)<br /> Turkana People of Kenya<br />
+ ![]({{ site.url }}/Blog2/images/Himba People.jpg)<br /> Himba People of Naimbia<br />
+ ![]({{ site.url }}/Blog2/images/Ivory Coast people.jpg)<br /> People of Ivory Coast<br />
+ ![]({{ site.url }}/Blog2/images/bamileke tribe cameroon.jpg)<br /> Bamileke Tribe in Cameroon<br />
+ ![]({{ site.url }}/Blog2/images/Berber People.jpg)<br /> Berber Tribe<br />
+ ![]({{ site.url }}/Blog2/images/Benin People.jpg)<br /> Benin Tribe<br />
 
 
 <b>Source: </b><br />
