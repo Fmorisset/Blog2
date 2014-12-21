@@ -13,7 +13,7 @@ title: Inspiration for Final Project
  ![]({{ site.url }}/Blog2/images/Redbull.jpg)
 <a href="http://streetartview.com/"> Redbull Street Art View</a><br />
 
- ![]({{ site.url }}/Blog2/images/Robin V.jpg)
+ ![]({{ site.url }}/Blog2/images/Robin V..jpg)
 <a href="http://www.vuchnich.com/"> Robin Vuchnich - Designer</a><br />
 
  ![]({{ site.url }}/Blog2/images/Local Projects.jpg)
