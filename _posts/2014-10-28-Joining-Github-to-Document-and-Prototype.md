@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vivant uses Github to Document and Prototype
+title: Joining Github to Document and Prototype
 ---
 
 {{ page.title }}
@@ -8,9 +8,7 @@ title: Vivant uses Github to Document and Prototype
 
 <p class="meta">
 
-Vivant joins Github as part of a class project! 
- 
-Vivant uses Github to Document and Prototype
+Class project: Using Github to Document and Prototype
 
 What is Github? An open source codes? Databases storage? Revision management database? Yes to all. Check out the full definition here https://github.com/about
 
