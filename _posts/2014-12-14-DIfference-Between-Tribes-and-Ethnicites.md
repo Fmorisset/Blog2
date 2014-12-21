@@ -25,13 +25,12 @@ Enjoy interesting pictures from various tribes and ethnicites in Africa.
  ![]({{ site.url }}/Blog2/images/People of Malawi.jpg)
  ![]({{ site.url }}/Blog2/images/turkana-kenya-people.jpg)
  ![]({{ site.url }}/Blog2/images/Ivory Coast people.jpg)
- ![]({{ site.url }}/Blog2/images/bamileke cameroon.jpg)
  ![]({{ site.url }}/Blog2/images/bamileke tribe cameroon.jpg)
  ![]({{ site.url }}/Blog2/images/Benin People.jpg)
  ![]({{ site.url }}/Blog2/images/Ethiopian Murzi Art.jpg)
  ![]({{ site.url }}/Blog2/images/Berber People.jpg)
  ![]({{ site.url }}/Blog2/images/Himba People.jpg)
- ![]({{ site.url }}/Blog2/images/Bantu Kikuyu Kenya.jpg)
+ ![]({{ site.url }}/Blog2/images/bamileke cameroon.jpg)
 
 
 <b>Source: </b><br />
