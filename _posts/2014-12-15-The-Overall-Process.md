@@ -39,7 +39,7 @@ I used wiki-pedia and google to find all my data and images. I finalized the pro
         This will be a continuous process as I come up with ideas to make the project interactive. <br />
         
         
-        <b> LINK TO FINAL PROJECT: </b><br />
+        <b> LINK TO FINAL PROJECT: </b>http://fmorisset.github.io/Blog2/finalproject.html<br />
 
 
 
